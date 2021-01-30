@@ -27,4 +27,3 @@
 3. 面向对象开发（audio.js、indexControl.js、progress.js）与面向过程开发（render.js、listControl.js）的灵活运用
 4. 合理地运用“this指向”的原理进行开发
 5. 对H5新增的Audio对象的应用
-# MusicPlayer
