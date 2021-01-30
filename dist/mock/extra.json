@@ -1,0 +1,20 @@
+[
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "旧词",
+        "album": "青鸟与诗",
+        "singer": "愚青",
+        "duration": 242,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_6.jpg",
+        "audioSrc": "../source/song_6.mp3",
+        "name": "很难",
+        "album": "OK",
+        "singer": "张震岳",
+        "duration": 258,
+        "isLike": true
+    }
+]

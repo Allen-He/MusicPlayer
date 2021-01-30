@@ -1,0 +1,1 @@
+!function(i){i.render=function(e){var n,r;r=e.image,i.blurImg(r),document.querySelector(".songImg img").src=r,n=e,(r=document.querySelector(".songInfo").children)[0].innerHTML=n.name,r[1].innerHTML=n.singer,r[2].innerHTML=n.album,e=e.isLike,document.querySelectorAll(".control li")[0].className=e?"liking":""}}(window.player||(window.player={}));
